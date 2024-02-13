@@ -1,0 +1,11 @@
+runtime: nodejs16
+handlers:
+  - url: /.*
+    secure: always
+    redirect_http_response_code: 301
+    script: auto
+
+env_variables:
+  NODE_ENV: "production"
+  FASTIFY_BODY_LIMIT: 26214400
+  STORAGE_BUCKET: "gs://bingsu-backend.appspot.com"
