@@ -1,5 +1,14 @@
+
 # Getting Started with [Fastify-CLI](https://www.npmjs.com/package/fastify-cli)
 This project was bootstrapped with Fastify-CLI.
+
+## Demo links
+https://bingsu-frontend-dev.uc.r.appspot.com/login
+
+Admin credentials: isaiicatmat@gmail.com pw: bingsu
+
+User credentials: juan.cruz@pieconsulting.co.kr pw: bingsu
+
 
 ## Available Scripts
 
